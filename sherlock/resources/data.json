@@ -1062,6 +1062,13 @@
     "urlMain": "https://www.imagefap.com/",
     "username_claimed": "blue"
   },
+   "Ifunny": {
+    "errorType":"status_code",
+    "url":"https://ifunny.co/user/{}",
+    "urlMain":"https://ifunny.co/",
+    "username_claimed":"agua",
+    "username_unclaimed":"noonewouldeverusethis213"
+  },
   "ImgUp.cz": {
     "errorType": "status_code",
     "url": "https://imgup.cz/{}",
