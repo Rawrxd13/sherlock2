@@ -522,6 +522,13 @@
     "urlMain": "https://www.cracked.com/",
     "username_claimed": "blue"
   },
+  "Cracked.io": {
+    "errorType": "status_code",
+    "url": "https://cracked.io/{}",
+    "urlMain": "https://cracked.io/",
+    "username_claimed": "Blue",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Crevado": {
     "errorType": "status_code",
     "regexCheck": "^[a-zA-Z0-9@_-]$",
