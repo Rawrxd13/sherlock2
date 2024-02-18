@@ -709,6 +709,14 @@
     "urlProbe": "https://www.fiverr.com/validate_username",
     "username_claimed": "blueman"
   },
+  "Flashback": {
+    "errorMsg": "1",
+    "errorType": "message",
+    "url": "https://www.flashback.org/ajax/fb_register_username_check.php?username={}",
+    "urlMain": "https://www.flashback.org",
+    "username_claimed": "admin",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Flickr": {
     "errorType": "status_code",
     "url": "https://www.flickr.com/people/{}",
