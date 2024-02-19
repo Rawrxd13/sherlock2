@@ -167,6 +167,7 @@
 1. ![](https://www.google.com/s2/favicons?domain=https://discourse.joplinapp.org/) [Joplin Forum](https://discourse.joplinapp.org/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://www.keakr.com/) [KEAKR](https://www.keakr.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://www.kaggle.com/) [Kaggle](https://www.kaggle.com/) 
+1. ![](https://www.google.com/s2/favicons?domain=https://keskonfai.fr) [KeskonfaiFR](https://keskonfai.fr)
 1. ![](https://www.google.com/s2/favicons?domain=https://keybase.io/) [Keybase](https://keybase.io/) 
 1. ![](https://www.google.com/s2/favicons?domain=http://kik.me/) [Kik](http://kik.me/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://www.kongregate.com/) [Kongregate](https://www.kongregate.com/) 

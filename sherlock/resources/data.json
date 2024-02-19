@@ -1150,6 +1150,13 @@
     "urlMain": "https://www.kaggle.com/",
     "username_claimed": "dansbecker"
   },
+  "KeskonfaiFR": {
+    "errorType": "status_code",
+    "url": "https://keskonfai.fr/@{}",
+    "urlMain": "https://keskonfai.fr",
+    "username_claimed": "steph_test",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
   "Keybase": {
     "errorType": "status_code",
     "url": "https://keybase.io/{}",
