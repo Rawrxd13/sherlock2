@@ -1911,6 +1911,13 @@
     "urlMain": "https://traktrain.com/",
     "username_claimed": "traktrain"
   },
+  "TrueSteamAchievements": {
+    "errorType": "status_code",
+    "url": "https://truesteamachievements.com/gamer/{}",
+    "urlMain": "https://truesteamachievements.com",
+    "username_claimed": "blue",
+    "username_unclaimed": "no1one2would3ever4use5this6"
+  },
   "Telegram": {
     "errorMsg": "<meta property=\"og:description\" content=\"\">",
     "errorType": "message",
