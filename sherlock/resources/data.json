@@ -367,6 +367,13 @@
     "urlMain": "https://career.habr.com/",
     "username_claimed": "blue"
   },
+  "Change.org": {
+    "errorType": "status_code",
+    "url": "https://www.change.org/o/{}",
+    "urlMain": "https://www.change.org/",
+    "username_claimed": "changedotorg",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "Championat": {
     "errorType": "status_code",
     "url": "https://www.championat.com/user/{}",
