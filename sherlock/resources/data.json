@@ -515,6 +515,7 @@
     "urlMain": "https://coroflot.com/",
     "username_claimed": "blue"
   },
+  
   "Cracked": {
     "errorType": "response_url",
     "errorUrl": "https://www.cracked.com/",
@@ -1144,6 +1145,14 @@
     "urlMain": "https://www.keakr.com/",
     "username_claimed": "beats"
   },
+  "Jupyter Community Forum": {
+    "errorMsg": "Oops! That page doesn’t exist or is private.",
+    "errorType": "message",
+    "url": "https://discourse.jupyter.org/u/{}/summary",
+    "urlMain": "https://discourse.jupyter.org",
+    "username_claimed": "choldgraf",
+    "username_unclaimed": "noonewouldeverusethis"
+  },
   "Kaggle": {
     "errorType": "status_code",
     "url": "https://www.kaggle.com/{}",
@@ -1576,6 +1585,14 @@
     "urlMain": "http://promodj.com/",
     "username_claimed": "blue"
   },
+  "Python.org Discussions": {
+    "errorMsg": "Oops! That page doesn’t exist or is private.",
+    "errorType": "message",
+    "url": "https://discuss.python.org/u/{}/summary",
+    "urlMain": "https://discuss.python.org",
+    "username_claimed": "python",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "PyPi": {
     "errorType": "status_code",
     "url": "https://pypi.org/user/{}",
@@ -1671,6 +1688,14 @@
     "url": "https://royalcams.com/profile/{}",
     "urlMain": "https://royalcams.com",
     "username_claimed": "asuna-black"
+  },
+  "Ruby Forums": {
+    "errorMsg": "Oops! That page doesn’t exist or is private.",
+    "errorType": "message",
+    "url": "https://ruby-forum.com/u/{}/summary",
+    "urlMain": "https://ruby-forums.com",
+    "username_claimed": "rishard",
+    "username_unclaimed": "noonewouldeverusethis7"
   },
   "RubyGems": {
     "errorType": "status_code",
@@ -2038,6 +2063,14 @@
     "urlMain": "https://unsplash.com/",
     "username_claimed": "jenny"
   },
+  "Valorant Forums": {
+    "errorMsg": "The page you requested could not be found.",
+    "errorType": "message",
+    "url": "https://valorantforums.com/u/{}",
+    "urlMain": "https://valorantforums.com",
+    "username_claimed": "Wolves",
+    "username_unclaimed": "noonewouldeverusethis7"
+  },
   "VK": {
     "errorType": "response_url",
     "errorUrl": "https://www.quora.com/profile/{}",
@@ -2278,6 +2311,13 @@
     "url": "https://www.couchsurfing.com/people/{}",
     "urlMain": "https://www.couchsurfing.com/",
     "username_claimed": "blue"
+  },
+  "cplusplus": {
+    "errorType": "status_code",
+    "url": "https://cplusplus.com/user/{}",
+    "urlMain": "https://cplusplus.com",
+    "username_claimed": "mbozzi",
+    "username_unclaimed": "noonewouldeverusethis7"
   },
   "d3RU": {
     "errorType": "status_code",
