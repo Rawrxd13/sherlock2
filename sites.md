@@ -86,7 +86,6 @@
 1. ![](https://www.google.com/s2/favicons?domain=https://dev.to/) [DEV Community](https://dev.to/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://dmoj.ca/) [DMOJ](https://dmoj.ca/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://www.dailymotion.com/) [DailyMotion](https://www.dailymotion.com/) 
-1. ![](https://www.google.com/s2/favicons?domain=https://www.dealabs.com/) [Dealabs](https://www.dealabs.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://deviantart.com) [DeviantART](https://deviantart.com) 
 1. ![](https://www.google.com/s2/favicons?domain=https://www.discogs.com/) [Discogs](https://www.discogs.com/) 
 1. ![](https://www.google.com/s2/favicons?domain=https://discuss.elastic.co/) [Discuss.Elastic.co](https://discuss.elastic.co/) 
