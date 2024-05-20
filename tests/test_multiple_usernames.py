@@ -1,8 +1,7 @@
-import importlib
 import unittest
 import sys
 sys.path.append('../')
-import sherlock as sh
+from sherlock import sherlock as sh
 
 checksymbols = []
 checksymbols = ["_", "-", "."]
